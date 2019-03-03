@@ -1,0 +1,27 @@
+# Site
+name: Open Data Day León 2019
+description: "Celebración del Día Mundial de Datos Abiertos en el Municipio de León."
+meta_description: "Open Data Day León 2019."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl:
+email: 'rodolfoferroperez@gmail.com'
+# google_analytics: 'UA-46278016-1'
+# sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Other
+markdown: kramdown
+highlighter: rouge
