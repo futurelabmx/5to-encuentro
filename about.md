@@ -3,43 +3,37 @@ layout: page
 title: Acerca de
 ---
 
-El **Open Data Day León 2019**, es una iniciativa de la Dirección General de Innovación del Municipio de León, a través de Lab León, para celebrar el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos. Esta celebración se llevará a cabo el día **sábado 2 de marzo de 2019** a nivel mundial, siendo que León, Guanajuato, será un municipio sede del evento.
+El **Open Data Day León 2020**, es una iniciativa de la Dirección General de Innovación del Municipio de León, a través de **[Lab León](https://www.facebook.com/lab.leon.DGI/)**, para celebrar el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos. Esta celebración se llevará a cabo el día **sábado 7 de marzo de 2020** a nivel mundial, siendo que León, Guanajuato, será un municipio sede del evento.
 
-El registro estará abierto del **13 de febrero al 2 de marzo de 2019** (hay cupo limitado), una vez registrado(a), se te hará llegar un correo en el que deberás confirmar tu asistencia.
+El registro estará abierto del **10 de febrero al 7 de marzo de 2020** y se llevará a cabo a través de la plataforma _Eventbrite_.
 
-No pierdas tu oportunidad y regístrate, tenemos cupo limitado: <a class="btn btn-primary btn-sm" href="https://goo.gl/forms/kiaQrRI1EN8dWQFp1" target="_blank">¡Regístrate!</a>
+No pierdas tu oportunidad y regístrate a la pláticas y talleres: <a class="btn btn-primary btn-sm" href="https://www.eventbrite.com/e/open-data-day-2020-tickets-92236649301" target="_blank">¡Regístrate!</a>
 
-#### ¿QUÉ ES EL DÍA DE DATOS ABIERTOS?
+#### ¿Qué es el día de datos abiertos?
+
 *Open Data Day* es una celebración anual de datos abiertos en todo el mundo. Por novena vez en la historia, grupos de todo el mundo crearán eventos locales el día en que usarán datos abiertos en sus comunidades. Es una oportunidad para mostrar los beneficios de los datos abiertos y fomentar la adopción de políticas de datos abiertos en el gobierno, las empresas y la sociedad civil.
 
-Todas las salidas están abiertas para que todos las puedan usar y reutilizar.
+Todos los resultados que se generen ese día estarán abiertos para que todos las puedan usar y reutilizar.
 
-#### DÍA DE DATOS ABIERTOS 2019
-Para el *Open Data Day* 2019, queremos que la comunidad siga creciendo. Daremos mini subvenciones en áreas clave que creemos que los datos abiertos pueden resolver. Puedes ver las pistas de este año a continuación.
+#### Día Mundial de Datos Abiertos 2020
+
+Esta edición se centra en en uso de **datos para el desarrollo igualitario**, donde todos son libres de expresar sus opiniones de manera constructiva en temas de igualdad de género e inclusión de la comunidad LGBT+ en la toma de decisiones en el ámbito de tecnología. Sin importa el conjunto de habilidades o intereses, fomentando oportunidades para aprender y ayudar con datos abiertos globales y locales al crecimiento de una comunidad incluyente y equitativa.
+
 
 <div class="form-group row">
-
-    <div class="col-md-3">
-          <p><strong>Ciencia</strong> abierta:</p>
-          <svg>
-          <use xlink:href="#icon-research">
-          #shadow-root
-          <svg viewBox="0 0 100 100" id="icon-research" width="100%" height="100%"><title>research</title> <g transform="matrix(1,0,0,1,5.68434e-14,-3.05055)"> <path d="M91.5,12.015L91.5,92.015L8.5,92.015L8.5,12.015L91.5,12.015ZM57.282,76.467C58.703,76.467 59.856,75.314 59.856,73.893L59.856,66.172C59.856,64.159 60.677,62.028 65.343,55.364C67.647,52.082 68.864,48.255 68.864,44.294C68.864,33.648 60.206,24.99 49.56,24.99C38.915,24.99 30.256,33.648 30.256,44.294C30.256,48.118 31.389,51.815 33.535,55.014C33.595,55.135 33.661,55.251 33.741,55.361C38.439,62.069 39.265,64.19 39.265,66.172L39.265,73.893C39.265,75.314 40.418,76.467 41.839,76.467L46.986,76.467C46.986,77.136 47.27,77.805 47.733,78.294C48.222,78.758 48.891,79.041 49.56,79.041C50.229,79.041 50.899,78.758 51.388,78.294C51.851,77.806 52.134,77.136 52.134,76.467L57.282,76.467ZM54.708,68.745L54.708,71.319L44.413,71.319L44.413,68.745L54.708,68.745ZM54.991,63.598C55.614,60.874 57.357,57.796 61.13,52.409C62.823,49.997 63.717,47.192 63.717,44.294C63.717,36.487 57.367,30.137 49.56,30.137C41.754,30.137 35.404,36.487 35.404,44.294C35.404,47.194 36.297,50 37.988,52.404C38.063,52.512 38.13,52.623 38.186,52.736C41.81,57.935 43.504,60.947 44.122,63.598L46.986,63.598L46.986,58.45C46.986,57.029 48.139,55.876 49.56,55.876C50.981,55.876 52.134,57.029 52.134,58.45L52.134,63.598L54.991,63.598ZM49.56,36.572C48.85,36.572 48.273,37.149 48.273,37.859C48.273,38.569 48.85,39.146 49.56,39.146C52.348,39.146 54.615,41.414 54.615,44.201C54.615,44.911 55.192,45.488 55.902,45.488C56.613,45.488 57.189,44.911 57.189,44.201C57.189,39.995 53.766,36.572 49.56,36.572Z"></path> </g> </svg>
-          </use>
-          </svg>
-    </div>
-
-    <div class="col-md-3">
-        <p>Seguimiento de los flujos de <strong>dinero</strong> público:</p>
+    <div class="col-md-6">
+        <p>Datos para el <strong>desarrollo igualitario</strong>:</p>
         <svg>
-        <use xlink:href="#icon-money">
+        <use xlink:href="#icon-equality">
         #shadow-root
-        <svg viewBox="0 0 100 100" id="icon-money" width="100%" height="100%"><title>money</title> <path d="M80.105,92.654L19.895,92.654L1.289,35.391L50,0L98.711,35.391L80.105,92.654ZM65.097,69.547C69.638,69.547 73.332,65.917 73.332,61.456L73.332,42.575C73.332,38.114 69.638,34.483 65.097,34.483L34.903,34.483C30.362,34.483 26.668,38.114 26.668,42.575L26.668,61.456C26.668,65.917 30.362,69.547 34.903,69.547L65.097,69.547ZM67.842,50.667L67.842,61.456C67.842,62.945 66.613,64.153 65.097,64.153L34.903,64.153C33.387,64.153 32.158,62.945 32.158,61.456L32.158,50.667L67.842,50.667ZM62.352,58.758C63.11,58.758 63.725,58.154 63.725,57.41C63.725,56.665 63.11,56.061 62.352,56.061L56.862,56.061C56.105,56.061 55.49,56.665 55.49,57.41C55.49,58.154 56.105,58.758 56.862,58.758L62.352,58.758ZM65.097,39.878C66.613,39.878 67.842,41.086 67.842,42.575L67.842,45.272L32.158,45.272L32.158,42.575C32.158,41.086 33.387,39.878 34.903,39.878L65.097,39.878Z"></path> </svg>
+        <svg viewBox="0 0 800 800" id="icon-equality" width="100%" height="100%"><title>equality</title> <path d="M236.446,760L32.081,502.881l72.937-319.984l295.316-142.43L695.65,182.576l72.937,320.36L564.222,760H236.446z M606,334
+c0-19.33-15.67-35-35-35H229c-19.33,0-35,15.67-35,35s15.67,35,35,35h342C590.33,369,606,353.33,606,334z M606,476
+c0-19.33-15.67-35-35-35H229c-19.33,0-35,15.67-35,35s15.67,35,35,35h342C590.33,511,606,495.33,606,476z"></path> </svg>
         </use>
         </svg>
     </div>
 
-    <div class="col-md-3">
+    <div class="col-md-6">
         <p><strong>Mapeo</strong> abierto:</p>
         <svg>
         <use xlink:href="#icon-mapping">
@@ -58,23 +52,17 @@ c-0.793-28.256,9.41-57.184,27.626-78.364C340.574,245.651,369.728,232,399.107,232
         </use>
         </svg>
     </div>
-
-    <div class="col-md-3">
-        <p>Datos para el <strong>desarrollo igualitario</strong>:</p>
-        <svg>
-        <use xlink:href="#icon-equality">
-        #shadow-root
-        <svg viewBox="0 0 800 800" id="icon-equality" width="100%" height="100%"><title>equality</title> <path d="M236.446,760L32.081,502.881l72.937-319.984l295.316-142.43L695.65,182.576l72.937,320.36L564.222,760H236.446z M606,334
-c0-19.33-15.67-35-35-35H229c-19.33,0-35,15.67-35,35s15.67,35,35,35h342C590.33,369,606,353.33,606,334z M606,476
-c0-19.33-15.67-35-35-35H229c-19.33,0-35,15.67-35,35s15.67,35,35,35h342C590.33,511,606,495.33,606,476z"></path> </svg>
-        </use>
-        </svg>
-    </div>
 </div>
 
 
-#### ¿PARA QUIEN ES ESTO? ¡TODO EL MUNDO!
+#### ¿Para quién es? ¡Todo el mundo!
 Si tienes una idea para usar datos abiertos, quieres encontrar un proyecto interesante para contribuir, aprender sobre cómo visualizar o analizar datos o simplemente quieres ver lo que está sucediendo, ¡entonces ven a participar! La participación es un valor central de *Open Data Day*, todos son libres de expresar sus opiniones de manera constructiva. Sin importar su conjunto de habilidades o intereses, estamos alentando a fomentar oportunidades para que usted aprenda y ayude a crecer a la comunidad global de datos abiertos.
+
+- El público en general
+- Servidoros Públicos
+- Diseñadores
+- Desarrolladores
+- Estadísticos
 
 
 <strong>Conoce más:</strong><br />
