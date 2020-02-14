@@ -15,6 +15,8 @@ Tenemos el honor de contar con la presencia de diversos actores expertos en el t
 
 #### Programa
 
+El programa contempla una serie de charlas, talleres y un pánel que abordará diferentes temas sobre desarrollo igualitario en el ámbito de la tecnología y cómo los datos abiertos juegan un rol importante para darle visibilidad distintas problemáticas.
+
 <!-- | Hora          |         Actividad         |
 |---------------|:-------------------------:|
 | 9:30 - 10:00  |   Registro y check-in 🎫   |
@@ -30,3 +32,5 @@ Tenemos el honor de contar con la presencia de diversos actores expertos en el t
 | 15:00 - 15:30 |   Cierre + Networking 🌈   | -->
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shroslhpCtcfQVeiM?backgroundColor=cyan&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+No pierdas tu oportunidad y regístrate a la pláticas y talleres: <a class="btn btn-primary btn-sm" href="https://www.eventbrite.com/e/open-data-day-2020-tickets-92236649301" target="_blank">¡Regístrate!</a>
