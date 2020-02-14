@@ -23,6 +23,7 @@ Tenemos el honor de contar con la presencia de diversos actores expertos en el t
 | 10:50 - 11:10 | Actividad de activación ⚡️ |
 | 11:10 - 11:30 |        Charla 2 👩‍💼        |
 | 11:30 - 12:00 |       Coffee Break ☕️      |
-| 12:00 - 15:00 |        Taller 1 👩‍💻        |
-| 12:00 - 15:00 |        Taller 2 👩‍💻        |
+| 12:00 - 15:00 |   Taller de Open Data 👩‍💻   |
+| 12:00 - 15:00 |   Taller de Open Mapping 👩‍💻 |
+| 12:00 - 15:00 |   Taller de Open Source 👩‍💻 |
 | 15:00 - 15:30 |   Cierre + Networking 🌈   |
