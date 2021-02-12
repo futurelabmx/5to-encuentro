@@ -1,12 +1,12 @@
 # Site
-name: Open Data Day León 2020
-description: "Celebración del Día Mundial de Datos Abiertos en el Municipio de León."
-meta_description: "Open Data Day León 2020."
+name: Open Data Day León 2021
+description: "Celebración del Día Mundial de Datos Abiertos en la ciudad de León."
+meta_description: "Open Data Day León 2021."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
 email: 'ricardomirontorres@gmail.com'
-# google_analytics: 'UA-46278016-1'
+google_analytics: 'G-WKZYGMH931'
 # sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Plugins
