@@ -27,11 +27,7 @@
 </script>
 {% endif %}
 
-
-
 </head>
-
-
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{ layout }}">
@@ -72,14 +68,8 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/contact">Contacto</a>
                 </li>
-
-                 <li class="nav-item">
-                    <a target="_blank" class="nav-link" href="https://github.com/LabLeon">Github</a>
-                </li>
-
-
                 <li class="nav-item">
-                    <a class="nav-link highlight" href="https://www.eventbrite.com/e/open-data-day-2020-tickets-92236649301" target="_blank">¡Regístrate!</a>
+                    <a class="nav-link highlight" href="{{ site.baseurl }}/registro">¡Regístrate!</a>
                 </li>
 
             </ul>
@@ -114,9 +104,8 @@
     <div class="main-content">
         {{ content }}
         <br />
-        <center>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722.1981383799093!2d-101.64591978544533!3d21.1046653905595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842bbfe586bdd063%3A0xe22d6b6023d9c9f8!2sCREATIVIKA!5e0!3m2!1ses!2smx!4v1581709720644!5m2!1ses!2smx" width="80%" height="200" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-        </center>
+        <h1>Evento en línea</h1>
+        <p>Esta edición será completamente en línea, por lo que podrás participar en las distintas charlas y talleres desde tu casa.</p>
     </div>
 
     </div><!-- /.container -->
@@ -131,7 +120,7 @@
                 <div class="col-md-8">
                     <h3>Forma parte de la comunidad que contribuye al cambio a través de datos.</h3>
                     <p>Aprende cómo los datos pueden cambiar al mundo.</p>
-                    <a class="btn btn-primary btn-lg" href="https://www.eventbrite.com/e/open-data-day-2020-tickets-92236649301" target="_blank">¡Regístrate!</a>
+                    <a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/registro" target="_blank">¡Regístrate!</a>
                 </div>
                 <div class="col-md-4 text-right footersocial">
                     <h5>¡Síguenos!</h5>
@@ -162,8 +151,9 @@
                 <div class="footer-widget">
                 <h5 class="title">Recursos</h5>
                 <ul>
-                <li><a target="_blank" href="http://opendataday.org/">Open Data Day 2019</a></li>
-                <li><a target="_blank" href="http://www.datamx.io/">Datamx</a></li>
+                <li><a target="_blank" href="http://datamx.io/organization/lableon">Datos abiertos</a></li>
+                <li><a target="_blank" href="https://open-data-charter.gitbook.io/open-up-guide-using-open-data-to-advance-climate-a/">Guía para el uso de datos ambientales</a></li>
+                <li><a target="_blank" href="https://okfn.org/">Open Knowledge Foundation</a></li>
                 </ul>
                 </div>
                 </div>
@@ -182,8 +172,8 @@
                 <div class="footer-widget textwidget">
                     <h5 class="title">Open Data Day León</h5>
                     <p>
-                        Open Data Day León es una iniciativa de <a target="_blank" href="https://www.facebook.com/lab.leon.DGI/">LAB León</a>.
-                        En colaboración con <a target="_blank" href="https://www.codeandomexico.org/">Codeando México</a> y <a target="_blank" href="https://www.here.com">Here Technologies</a>.
+                        Open Data Day León es una iniciativa de <a target="_blank" href="https://www.facebook.com/lab.leon.DGI/">LAB León</a> y
+                         <a target="_blank" href="https://futurelab.mx/">Future Lab</a>. En colaboración con <a target="_blank" href="https://www.here.com">Here Technologies</a>.
                     </p>
                 </div>
                 </div>
