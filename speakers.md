@@ -5,32 +5,15 @@ title: Speakers
 
 Tenemos el honor de contar con la presencia de diversos actores expertos en el tema del sector público, privado y de la socidad civil que estarán compartiendo con nosotros sus perspectivas, puntos de vista y conocimiento.
 
-<!-- - **Karen DuPont**, Innovación Social - [Lab León](https://www.facebook.com/lab.leon.DGI/)
-- **Juan Pablo Flores**, Program Manager - [GitHub](https://education.github.com/)
-- **Gabriel García**, Community Member - [Future Lab](https://futurelab.mx/)
-- **Sofía Corona**, Operations Lead - [Codeando México](http://www.codeandomexico.org/) -->
-
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrF4ctu6GOCROzcz?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 #### Programa
 
-El programa contempla una serie de charlas, talleres y un pánel que abordará diferentes temas sobre desarrollo igualitario en el ámbito de la tecnología y cómo los datos abiertos juegan un rol importante para darle visibilidad distintas problemáticas.
+El programa contempla una serie de dinámicas, talleres y un pánel que abordará diferentes temas sobre <strong>medio ambiente</strong> en el ámbito de la tecnología y cómo los datos abiertos juegan un rol importante para darle visibilidad distintas problemáticas de la ciudad.
 
-<!-- | Hora          |         Actividad         |
-|---------------|:-------------------------:|
-| 9:30 - 10:00  |   Registro y check-in 🎫   |
-| 10:00 - 10:05 |        Bienvenida 🎊       |
-| 10:05 - 10:30 |          Panel 🎤          |
-| 10:30 - 10:50 |        Charla 1 👩‍💼        |
-| 10:50 - 11:10 | Actividad de activación ⚡️ |
-| 11:10 - 11:30 |        Charla 2 👩‍💼        |
-| 11:30 - 12:00 |       Coffee Break ☕️      |
-| 12:00 - 15:00 |   Taller de Open Data 👩‍💻   |
-| 12:00 - 15:00 |   Taller de Open Mapping 👩‍💻 |
-| 12:00 - 15:00 |   Taller de Open Source 👩‍💻 |
-| 15:00 - 15:30 |   Cierre + Networking 🌈   | -->
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr8Z1SCXb2843FPy?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+_* El programa puede cambiar sin previo aviso._
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shroslhpCtcfQVeiM?backgroundColor=cyan&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-No pierdas tu oportunidad y regístrate a la pláticas y talleres: <a class="btn btn-primary btn-sm" href="https://www.eventbrite.com/e/open-data-day-2020-tickets-92236649301" target="_blank">¡Regístrate!</a>
+<!-- No pierdas tu oportunidad y regístrate a los talleres: <a class="btn btn-primary btn-sm" href="#" target="_blank">¡Regístrate!</a> -->
+El registro a los talleres se habilitará en los siguientes días, te haremos llegar más información por correo una vez registrado al evento principal.
