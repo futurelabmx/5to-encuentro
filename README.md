@@ -2,7 +2,7 @@
 
 El **Open Data Day León 2021**, es una iniciativa de la Dirección General de Innovación del Municipio de León, a través de **[Lab León](https://www.facebook.com/lab.leon.DGI/)**, para celebrar el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos. Esta celebración se llevará a cabo el día **sábado 6 de marzo de 2021** a nivel mundial, siendo que León, Guanajuato, será un municipio sede del evento.
 
-El registro estará abierto hasta el **5 de marzo de 2021**, puedes asistir libremente a las charlas que tendremos o puedes inscribirte a los diferentes talleres que se realizarán. Una vez registrado(a), se te hará llegar un correo que deberás confirmar.
+El registro estará abierto hasta el **5 de marzo de 2021**, puedes asistir libremente a las charlas que tendremos o puedes inscribirte a los diferentes talleres que se realizarán. Una vez registrado(a), se te hará llegar un correo para inscribirte a los talleres.
 
 No pierdas tu oportunidad y regístrate, tenemos cupo limitado: <a class="btn btn-primary btn-sm" href="https://lableon.github.io/open-data-day/registro">¡Regístrate!</a>
 
