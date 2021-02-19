@@ -3,11 +3,9 @@ layout: page
 title: Acerca de
 ---
 
-El **Open Data Day León 2020**, es una iniciativa de la Dirección General de Innovación del Municipio de León, a través de **[Lab León](https://www.facebook.com/lab.leon.DGI/)**, para celebrar el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos. Esta celebración se llevará a cabo el día **sábado 7 de marzo de 2020** a nivel mundial, siendo que León, Guanajuato, será un municipio sede del evento.
+El **Open Data Day León 2021**, es una iniciativa de la Dirección General de Innovación del Municipio de León, a través de **[Lab León](https://www.facebook.com/lab.leon.DGI/)**, para celebrar el día mundial de datos abiertos aprendiendo, colaborando y creando con datos. Es la oportunidad perfecta para formar parte de la comunidad activa que contribuye al cambio a través de los datos abiertos. Esta celebración se llevará a cabo el día **sábado 6 de marzo de 2021** a nivel mundial, siendo que León, Guanajuato, será un municipio sede del evento.
 
-El registro estará abierto del **10 de febrero al 7 de marzo de 2020** y se llevará a cabo a través de la plataforma _Eventbrite_.
-
-No pierdas tu oportunidad y regístrate a la pláticas y talleres: <a class="btn btn-primary btn-sm" href="https://www.eventbrite.com/e/open-data-day-2020-tickets-92236649301" target="_blank">¡Regístrate!</a>
+El registro estará abierto hasta el **5 de marzo de 2021**, puedes asistir libremente a las charlas que tendremos o puedes inscribirte a los diferentes talleres que se realizarán. Una vez registrado(a), se te hará llegar un correo para inscribirte a los talleres.
 
 #### ¿Qué es el día de datos abiertos?
 
@@ -15,14 +13,13 @@ No pierdas tu oportunidad y regístrate a la pláticas y talleres: <a class="btn
 
 Todos los resultados que se generen ese día estarán abiertos para que todos las puedan usar y reutilizar.
 
-#### Día Mundial de Datos Abiertos 2020
+#### Día Mundial de Datos Abiertos 2021
 
-Esta edición se centra en en uso de **datos para el desarrollo igualitario**, donde todos son libres de expresar sus opiniones de manera constructiva en temas de igualdad de género e inclusión de la comunidad LGBT+ en la toma de decisiones en el ámbito de tecnología. Sin importa el conjunto de habilidades o intereses, fomentando oportunidades para aprender y ayudar con datos abiertos globales y locales al crecimiento de una comunidad incluyente y equitativa.
-
+Esta edición se centra en en uso de **datos ambientales**, donde podrás aprender sobre la calidad del aire, arbolado urbano y gestión del agua de la ciudad, utilizando datos para hacer análisis, visualizaciones, mapas y más. Sin importar el conjunto de habilidades técnicas que poseeas, este es un espacio abierto para aprender y ayudar con datos abiertos globales y locales al crecimiento de una comunidad incluyente y sostenible.
 
 <div class="form-group row">
     <div class="col-md-6">
-        <p>Datos para el <strong>desarrollo igualitario</strong>:</p>
+        <p>Datos <strong>ambientales</strong>:</p>
         <svg>
         <use xlink:href="#icon-equality">
         #shadow-root
@@ -62,8 +59,7 @@ Si tienes una idea para usar datos abiertos, quieres encontrar un proyecto inter
 - Servidoros Públicos
 - Diseñadores
 - Desarrolladores
-- Estadísticos
-
+- Estadístas/ científicos de datos
 
 <strong>Conoce más:</strong><br />
 <a href="http://opendataday.org/">http://opendataday.org/</a>
