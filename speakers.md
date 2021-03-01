@@ -5,7 +5,7 @@ title: Speakers
 
 Tenemos el honor de contar con la presencia de diversos actores expertos en el tema del sector público, privado y de la socidad civil que estarán compartiendo con nosotros sus perspectivas, puntos de vista y conocimiento.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrF4ctu6GOCROzcz?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrNZTxOuKUGOAQO7?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 ## Programa
