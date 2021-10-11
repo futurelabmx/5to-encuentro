@@ -1,12 +1,12 @@
 # Site
-name: 5to Encuentro Estudiantil UG
+name: 5to. Encuentro Estudiantil UG
 description: "Celebración del Día Mundial de Datos Abiertos en la ciudad de León."
-meta_description: "Open Data Day León 2021."
+meta_description: "5to. Encuentro Estudiantil UG"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
 email: 'ricardomirontorres@gmail.com'
-google_analytics: 'G-WKZYGMH931'
+# google_analytics: 'G-WKZYGMH931'
 # sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Plugins
