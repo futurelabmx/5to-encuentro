@@ -8,7 +8,7 @@ El programa contempla una serie de dinámicas, talleres y un pánel que abordar�
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr0AqT5YcndCF6PZ?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 _* El programa puede cambiar sin previo aviso._
 
-> Puedes validar tus unidades de participación en las  diferentes actividades usando [este formulario](/unidades).
+> Puedes validar tus unidades de participación en las  diferentes actividades usando [este formulario]({{ site.baseurl }}/unidades).
 > Cada una debe ser registrada de manera individual una vez que hayas asistido.
 >
 > __* Recuerda que es importante que tomes evidencia de tu asistencia (por ejemplo, una captura de pantalla).__

@@ -22,7 +22,7 @@ El 5to. Encuentro Estudiantil de la Universidad de Guanajuato es un espacio para
 
 El evento tiene una gran variedad de charlas y talleres que te permitirán conocer las diferentes tecnologías que se están implementando en la industria 4.0, y conocer las herramientas que se están utilizando para lograrlo.
 
-Puedes leer el [programa completo aquí](/programa).
+Puedes leer el [programa completo aquí]({{ site.baseurl }}/programa).
 
 #### Retos
 
@@ -32,4 +32,4 @@ Los retos que se presentarán en el evento son:
 - Reto de TikTok
 - Reto de robótica
 
-Puedes consultar [todos los retos aquí](/retos).
+Puedes consultar [todos los retos aquí]({{ site.baseurl }}/retos).
