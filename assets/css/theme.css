@@ -328,11 +328,10 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    /* background-image:url(../images/banner.png);
-    background-size:cover; */
-    background-color: #181B60;
+    background-image:url(../images/banner.png);
+    background-size:cover;
     padding: 9rem 0;
-    margin-top:-87px;
+    margin-top:-90px;
     margin-bottom:3.5rem;
     z-index: 1;
     position: relative;
@@ -389,7 +388,7 @@ span.post-name a,span.post-read-more a:hover {
     margin-top: 10px;
 }
 .beforefooter {
-    background: #00BFC5;
+    background: #CAAADB;
     color: #111;
     padding: 50px 0;
     max-width: 100%;
