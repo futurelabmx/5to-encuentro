@@ -328,8 +328,9 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    background-image:url(../images/banner.png);
-    background-size:cover;
+    /* background-image:url(../images/banner.png);
+    background-size:cover; */
+    background-color: #181B60;
     padding: 9rem 0;
     margin-top:-87px;
     margin-bottom:3.5rem;
@@ -337,9 +338,9 @@ span.post-name a,span.post-read-more a:hover {
     position: relative;
 }
 .intro .btn {
-    background: #fff100;
+    background: #00BFC5;
     border: 0;
-    color: #333;
+    color: #fff;
     border-radius: 3px;
     font-weight: 500;
     padding: 15px 40px;
@@ -388,7 +389,7 @@ span.post-name a,span.post-read-more a:hover {
     margin-top: 10px;
 }
 .beforefooter {
-    background: #FFB901;
+    background: #00BFC5;
     color: #111;
     padding: 50px 0;
     max-width: 100%;
